@@ -2,7 +2,11 @@
 
 Software Engineer
 
-# SNS
+## Profile sumarry
+- I live in the metropolitan area of Japan.
+- I have more than 10 years of experience as a software engineer.
+
+## Social networking
 
 - Github
   - [https://github.com/shase](https://github.com/shase)
@@ -14,3 +18,8 @@ Software Engineer
   - [https://jp.linkedin.com/in/shinichiro-hasegawa-76553635](https://jp.linkedin.com/in/shinichiro-hasegawa-76553635)
 - Wantedly
   - [https://www.wantedly.com/users/170942](https://www.wantedly.com/users/170942)
+
+## Old Social networking
+
+- blogger
+  - [http://blogger.shase.info](http://blogger.shase.info/)
