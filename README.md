@@ -28,8 +28,8 @@ Software Engineer
 
 
 - Year 2022
-  - [Cloud Dataflow で実現する柔軟なデータパイプライン](https://blog.studysapuri.jp/entry/2022/02/22/110000)
   - [モダンデータスタックでデータ分析基盤の改善〜可用性と保守性もアップ！〜](https://moneyforward.com/engineers_blog/2022/11/16/modern-data-stack/)
+  - [Cloud Dataflow で実現する柔軟なデータパイプライン](https://blog.studysapuri.jp/entry/2022/02/22/110000)
 - Year 2021
   - [Cloud Composer（Airflow）で分析者向けBigQuery SQL実行基盤をつくりました](https://quipper.hatenablog.com/entry/2021/06/16/080000)
 - Year 2020
