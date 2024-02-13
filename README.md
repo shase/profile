@@ -8,7 +8,7 @@ Software Engineer
 
 ## Social networking
 
-- Github
+- GitHub
   - [https://github.com/shase](https://github.com/shase)
 - Hatena Blog
   - [https://shase428.hatenablog.jp](https://shase428.hatenablog.jp)
