@@ -12,6 +12,8 @@ Software Engineer
   - [https://github.com/shase](https://github.com/shase)
 - Hatena Blog
   - [https://shase428.hatenablog.jp](https://shase428.hatenablog.jp)
+- Zenn
+  - [https://zenn.dev/shase](https://zenn.dev/shase)
 - Qiita
   - [https://qiita.com/shase428q](https://qiita.com/shase428q)
 - Linkedin
@@ -24,8 +26,7 @@ Software Engineer
 - blogger
   - [http://blogger.shase.info](http://blogger.shase.info/)
 
-## A corporate blog I wrote
-
+## I wrote the following list of articles for corporate blog
 
 - Year 2022
   - [モダンデータスタックでデータ分析基盤の改善〜可用性と保守性もアップ！〜](https://moneyforward.com/engineers_blog/2022/11/16/modern-data-stack/)
