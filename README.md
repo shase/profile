@@ -37,8 +37,8 @@ Software Engineer
   - [AWS Lambda を Python2 からPython3に移行しました](https://quipper.hatenablog.com/entry/2020/11/27/100000)
   - [Elastic CloudのElasticsearch Serviceに移行しています](https://quipper.hatenablog.com/entry/2020/06/25/080000)
 - Year 2017
-  - [アジリティの高いシステムを目指すSREチームの取り組み](https://engineer.recruit-lifestyle.co.jp/techblog/2017-08-31-hpb-replace-sre/)
+  - [アジリティの高いシステムを目指すSREチームの取り組み](https://techblog.recruit.co.jp/article-1055/)
 - Year 2016
-  - [Kinesis Client Libraryを利用してKinesis アプリケーションをつくったよ](https://engineer.recruit-lifestyle.co.jp/techblog/2016-12-26-kcl-application/)
+  - [Kinesis Client Libraryを利用してKinesis アプリケーションをつくったよ](https://techblog.recruit.co.jp/article-1037/)
 - Year 2011
   - [大量のサーバを管理するために、IPMIのお話](https://ameblo.jp/principia-ca/entry-10983675114.html)
